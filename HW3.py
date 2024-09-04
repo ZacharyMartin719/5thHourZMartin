@@ -23,4 +23,3 @@ print(numList)
 sum = numList[0] + numList[1] + numList[2]
 
 print(sum)
-
