@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added HW3">
-      <change afterPath="$PROJECT_DIR$/Pl;ayground.py" afterDir="false" />
+    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added Playground">
+      <change afterPath="$PROJECT_DIR$/Playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pl;ayground.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Python.HW3.executor": "Run",
     "Python.Hello World.executor": "Run",
     "Python.Pl;ayground.executor": "Run",
+    "Python.Playground.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724868123586</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Playground">
+      <option name="closed" value="true" />
+      <created>1725473968785</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725473968785</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +130,7 @@
     <MESSAGE value="Added HW2" />
     <MESSAGE value="Added HW1" />
     <MESSAGE value="Added HW3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW3" />
+    <MESSAGE value="Added Playground" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Playground" />
   </component>
 </project>
