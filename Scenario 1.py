@@ -45,23 +45,23 @@ enemyDict = {
 print(enemyDict)
 
 #New Damage for the Dominous
-newDamageA = input("Enter new Damage Points for Dominous:")
+newDamageA = int(input("Enter new Damage Points for Dominous: "))
 enemyDict["Dominous"]["Damage"] = newDamageA
 
 #New Damage for the Gabrious
-newDamageB = input("Enter new Damage Points for Gabrious:")
+newDamageB = int(input("Enter new Damage Points for Gabrious: "))
 enemyDict["Gabrious"]["Damage"] = newDamageB
 
 #New Damage for the Rileyous
-newDamageC = input("Enter new Damage Points for Rileyous:")
+newDamageC = int(input("Enter new Damage Points for Rileyous: "))
 enemyDict["Rileyous"]["Damage"] = newDamageC
 
 #New Damage for the Brentis
-newDamageD = input("Enter new Damage Points for Brentis:")
+newDamageD = int(input("Enter new Damage Points for Brentis: "))
 enemyDict["Brentis"]["Damage"] = newDamageD
 
 #New Damage for the Kevinous
-newDamageE = input("Enter new Damage Points for Kevinous:")
+newDamageE = int(input("Enter new Damage Points for Kevinous: "))
 enemyDict["Kevinous"]["Damage"] = newDamageE
 
 #Print New Changes to the Damage Values to the Characters
