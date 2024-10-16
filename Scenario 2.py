@@ -44,7 +44,7 @@ partyDictionary = {
         "Health" : 10,
         "AC" : 14,
         "Damage" : 12,
-    }
+    },
 }
 
 #Enemy Dictionary goes here
