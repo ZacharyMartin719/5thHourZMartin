@@ -10,8 +10,10 @@
 
 #Create a while loop that follows the rules of the game.
 #(HINT: Look back to HW6 on how to see if a number is divisible by another)
+num = 1
 
-for num in range(1,100):
+
+while num <= 100:
     string = ""
     if num % 3 == 0:
         string = string + "Fizz"
@@ -20,3 +22,4 @@ for num in range(1,100):
     if num % 5 != 0 and num % 3 != 0:
         string = string + str(num)
     print(string)
+    num += 1
