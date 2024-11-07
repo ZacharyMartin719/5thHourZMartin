@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added Playground">
+    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added HW 12">
+      <change afterPath="$PROJECT_DIR$/HW 12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/Playground.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.HW 10.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW 11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 12.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW 8.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW 9.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
@@ -74,35 +75,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\5th Hour\PycharmProjects\5th Hourr ZMartin" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Playground" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="5th Hourr ZMartin" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Playground.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.Playground" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -304,7 +276,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730310029271</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Added Playground">
+      <option name="closed" value="true" />
+      <created>1730747398695</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1730747398695</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added HW 11">
+      <option name="closed" value="true" />
+      <created>1730747710826</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1730747710826</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -312,7 +300,6 @@
     <MESSAGE value="Added HW2" />
     <MESSAGE value="Added HW1" />
     <MESSAGE value="Added HW3" />
-    <MESSAGE value="Added Playground" />
     <MESSAGE value="Added Updated Playground" />
     <MESSAGE value="Added HW4" />
     <MESSAGE value="Added Scenario 1" />
@@ -326,6 +313,7 @@
     <MESSAGE value="Added HW 8" />
     <MESSAGE value="Added HW 9" />
     <MESSAGE value="Added HW 10" />
+    <MESSAGE value="Added Playground" />
     <MESSAGE value="Added HW 11" />
     <option name="LAST_COMMIT_MESSAGE" value="Added HW 11" />
   </component>
