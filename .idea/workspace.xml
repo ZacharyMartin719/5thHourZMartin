@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added HW 12">
-      <change afterPath="$PROJECT_DIR$/HW 12.py" afterDir="false" />
+    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added HW 13">
+      <change afterPath="$PROJECT_DIR$/HW 13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,32 +46,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HW 10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW 11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW 12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW 8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW 9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hello World.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pl;ayground.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Playground.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/5th Hour/PycharmProjects/5th Hourr ZMartin&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.HW 10.executor": "Run",
+    "Python.HW 11.executor": "Run",
+    "Python.HW 12.executor": "Run",
+    "Python.HW 13.executor": "Run",
+    "Python.HW 8.executor": "Run",
+    "Python.HW 9.executor": "Run",
+    "Python.HW1.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.HW4.executor": "Run",
+    "Python.HW5.executor": "Run",
+    "Python.HW6.executor": "Run",
+    "Python.HW7.executor": "Run",
+    "Python.Hello World.executor": "Run",
+    "Python.Pl;ayground.executor": "Run",
+    "Python.Playground.executor": "Run",
+    "Python.Scenario 1.executor": "Run",
+    "Python.Scenario 2.executor": "Run",
+    "Python.Scenario 3.1.executor": "Run",
+    "Python.Scenario 3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/5th Hour/PycharmProjects/5th Hourr ZMartin"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\5th Hour\PycharmProjects\5th Hourr ZMartin" />
@@ -292,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730747710826</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Added HW 12">
+      <option name="closed" value="true" />
+      <created>1731005656429</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1731005656429</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -315,7 +325,8 @@
     <MESSAGE value="Added HW 10" />
     <MESSAGE value="Added Playground" />
     <MESSAGE value="Added HW 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW 11" />
+    <MESSAGE value="Added HW 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
