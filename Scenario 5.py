@@ -38,12 +38,12 @@ for round_number in range(1, rounds + 1):
     print(f"\nRound {round_number}: You have ${money}.")
 
 # Get input for color choice
-    choice = int(input("Pick a color to gamble on (1 for Green, 2 for Red, 3 for Black): "))
-    bet_amount = int(input(f"How much would you like to bet? (You have ${money}): "))
+    choice = int(input("Pick a color (1 for Green, 2 for Red, 3 for Black): "))
+    bet_amount = int(input(f"How much do you want to bet? (You have ${money}): "))
 
 # Make sure you have enough money for the amount you wanna bet
     if bet_amount > money:
-        print("You don't have enough money for that bet.")
+        print("You don't have enough money for that.")
         continue
 
 # Spin the roulette wheel
@@ -63,10 +63,10 @@ for round_number in range(1, rounds + 1):
 
 # Check if you guessed correctly
     if choice == result_color:
-        print(f"Congratulations! You win ${bet_amount}.")
+        print(f"Congratulations! You won ${bet_amount}.")
         money += bet_amount
     else:
-        print(f"Sorry, you lose ${bet_amount}.")
+        print(f"Sorry, you lost ${bet_amount}.")
         money -= bet_amount
 
 # When you run outta money
