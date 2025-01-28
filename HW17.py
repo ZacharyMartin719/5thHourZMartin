@@ -25,11 +25,6 @@ def flip_coin_100_times():
         else:
             heads += 1
 
-
-
-
-
-
 #4. Call the "Hello world" and "Coin Flip" functions here
 print_hello()
 flip_coin_100_times()
