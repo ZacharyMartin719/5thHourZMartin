@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added HW 18">
-      <change afterPath="$PROJECT_DIR$/HW18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added HW 18" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -365,11 +362,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738091541101</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Added HW 18">
+      <option name="closed" value="true" />
+      <created>1738176774830</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1738176774830</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW2" />
     <MESSAGE value="Added HW1" />
     <MESSAGE value="Added HW3" />
     <MESSAGE value="Added Updated Playground" />
@@ -394,7 +398,8 @@
     <MESSAGE value="Added HW 15,16" />
     <MESSAGE value="Added HW 17" />
     <MESSAGE value="Added HW" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW" />
+    <MESSAGE value="Added HW 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW 18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
