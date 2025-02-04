@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added HW 18" />
+    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added Scenario 6">
+      <change afterPath="$PROJECT_DIR$/Scenario 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenario6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +60,7 @@
     "Python.HW16.executor": "Run",
     "Python.HW17.executor": "Run",
     "Python.HW18.executor": "Run",
+    "Python.HW19.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
@@ -72,6 +77,9 @@
     "Python.Scenario 4.executor": "Run",
     "Python.Scenario 5.2.executor": "Run",
     "Python.Scenario 5.executor": "Run",
+    "Python.Scenario 6.executor": "Run",
+    "Python.Scenario 7.executor": "Run",
+    "Python.Scenario6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/5th Hour/PycharmProjects/5th Hourr ZMartin"
@@ -370,11 +378,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738176774830</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Added HW 19">
+      <option name="closed" value="true" />
+      <created>1738348960680</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1738348960680</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW1" />
     <MESSAGE value="Added HW3" />
     <MESSAGE value="Added Updated Playground" />
     <MESSAGE value="Added HW4" />
@@ -399,7 +414,8 @@
     <MESSAGE value="Added HW 17" />
     <MESSAGE value="Added HW" />
     <MESSAGE value="Added HW 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW 18" />
+    <MESSAGE value="Added HW 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW 19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
