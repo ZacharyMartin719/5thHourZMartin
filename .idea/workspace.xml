@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added Ai Playground">
-      <change afterPath="$PROJECT_DIR$/HW21.py" afterDir="false" />
+    <list default="true" id="a733b529-1cb6-40ca-ae18-254285359701" name="Changes" comment="Added HW21">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW21.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW21.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,49 +45,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.AI Playground.executor": "Run",
-    "Python.HW 10.executor": "Run",
-    "Python.HW 11.executor": "Run",
-    "Python.HW 12.executor": "Run",
-    "Python.HW 13.executor": "Run",
-    "Python.HW 14.executor": "Run",
-    "Python.HW 8.executor": "Run",
-    "Python.HW 9.executor": "Run",
-    "Python.HW1.executor": "Run",
-    "Python.HW15.executor": "Run",
-    "Python.HW16.executor": "Run",
-    "Python.HW17.executor": "Run",
-    "Python.HW18.executor": "Run",
-    "Python.HW19.executor": "Run",
-    "Python.HW2.executor": "Run",
-    "Python.HW20.executor": "Run",
-    "Python.HW21.executor": "Run",
-    "Python.HW3.executor": "Run",
-    "Python.HW4.executor": "Run",
-    "Python.HW5.executor": "Run",
-    "Python.HW6.executor": "Run",
-    "Python.HW7.executor": "Run",
-    "Python.Hello World.executor": "Run",
-    "Python.Minecraft.executor": "Run",
-    "Python.Pl;ayground.executor": "Run",
-    "Python.Playground.executor": "Run",
-    "Python.Scenario 1.executor": "Run",
-    "Python.Scenario 2.executor": "Run",
-    "Python.Scenario 3.1.executor": "Run",
-    "Python.Scenario 3.executor": "Run",
-    "Python.Scenario 4.executor": "Run",
-    "Python.Scenario 5.2.executor": "Run",
-    "Python.Scenario 5.executor": "Run",
-    "Python.Scenario 6.executor": "Run",
-    "Python.Scenario 7.executor": "Run",
-    "Python.Scenario6.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/5th Hour/PycharmProjects/5th Hourr ZMartin"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AI Playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW 9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hello World.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Minecraft.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pl;ayground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/5th Hour/PycharmProjects/5th Hourr ZMartin&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\5th Hour\PycharmProjects\5th Hourr ZMartin" />
@@ -429,11 +429,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740683981506</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Added HW21">
+      <option name="closed" value="true" />
+      <created>1741028679522</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1741028679522</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Scenario 1" />
     <MESSAGE value="Added Updated Scenario 1" />
     <MESSAGE value="Added Scenario 2" />
     <MESSAGE value="Added HW5" />
@@ -458,7 +465,8 @@
     <MESSAGE value="Added HW20" />
     <MESSAGE value="Added Playground" />
     <MESSAGE value="Added Ai Playground" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Ai Playground" />
+    <MESSAGE value="Added HW21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
